@@ -268,7 +268,9 @@ This is a simpler approach, when data is ready:
 ```{r, fig.width=15, fig.height=10, eval=FALSE}
 library(ggiraph)
 library(ggiraphExtra)
+```
 
+```{r, fig.width=15, fig.height=10, eval=FALSE}
 base = ggRadar(safe2x,aes(group='city'),legend.position="none") 
 
 plot1 = base + facet_wrap(~city,ncol = 10) 
