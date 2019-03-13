@@ -298,7 +298,7 @@ Areas are difficult to compare, so the plots above might be used with care.
 None of our previous plots represent **dimensionality reduction**, and that is what is coming now.
 
 
-A first approach would be to use a technique called **PCA** (principal components analysis). This technique is usefull if you want to get a composite score and a ranking: 
+A first approach would be to use a technique called **PCA** (principal components analysis). This technique is useful if you want to get a composite score and a ranking: 
 
 1. Install/Activate the library. There are many libraries for PCA, let's use this one:
 
